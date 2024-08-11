@@ -21,13 +21,16 @@ existing student identified by their ID.
 • Delete a Student: Removes a student's record based on their ID. 
 
 • Calculate Average GPA: Computes and displays the average GPA of all 
-
-# Data Structures
-• Student Structure: Stores student information such as ID, name, age, and GPA.
-• Linked List: Manages the student records dynamically, allowing for easy addition, deletion, and traversal of records.
-students. 
-
+ 
 • Find Student with Highest GPA: Identifies and displays the student with the 
 highest GPA. 
 
 • Exit: Terminates the program.
+
+
+
+# Data Structures
+• Student Structure: Stores student information such as ID, name, age, and GPA.
+
+• Linked List: Manages the student records dynamically, allowing for easy addition, deletion, and traversal of records.
+      students.
